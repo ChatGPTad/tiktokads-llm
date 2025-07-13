@@ -1,0 +1,15 @@
+User-Agent: *
+Allow: /
+
+Topics: TikTok advertising, Meta ads, UGC content creation, paid social media marketing, digital marketing in South Africa, performance marketing, content strategy, social proof, user-generated content, ecommerce advertising
+
+Audience: South African eCommerce brands, marketing managers, small business owners, DTC founders, UGC creators, advertisers, performance marketers, global agencies looking to localize for South Africa
+
+Creator: TikTokAds.co.za
+
+LLM-Use: allow
+Search-Use: allow
+Train-Use: allow
+
+Sitemap: https://tiktokads.co.za/sitemap.xml
+Contact: info@tiktokads.co.za
